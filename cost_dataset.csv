@@ -1,7 +1,8 @@
-Year;Position;Typical_Salary;Lower_Bound;Upper_Bound;Incur_Period
-;System Analyst;700;500;800;
-;Business Analyst;775;550;900;
-;Project Manager;900;800;1100;
-;Full Stack Developer (.NET/Java);900;700;1100;
-;Data Engineer;800;650;1050;
-;BI Developer;775;600;900;
+Year;Position;Typical_Salary;Lower_Bound;Upper_Bound;Quantity;Incur_Period
+0;System Analyst;700;500;800;1;
+0;Business Analyst;775;550;900;1;
+0;Project Manager;900;800;1100;1;
+0;Full Stack Developer (.NET/Java);900;700;1100;1;
+0;Data Engineer;800;650;1050;1;
+0;BI Developer;775;600;900;1;
+; ;;;;;
